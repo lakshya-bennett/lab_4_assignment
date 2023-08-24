@@ -1,2 +1,2 @@
 # lab_4_assignment
-# hi my anme is lakshya agarwal
+# hi my name is lakshya agarwal
